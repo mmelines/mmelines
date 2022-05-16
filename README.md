@@ -1,3 +1,9 @@
-# angular-ivy-whuf7x
+## Hi, I'm Mary
+But my friends call me Molly. I'm a programming hobbyist and aspiring developer. I'm interested in
+- Python
+- JavaScript (including Node, Angular, and React)
+- Relational Databases
+- Containerization and K8s
+- Message Streaming
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-whuf7x)
+Check out my [personal website](http://www.maryeleanorperry.com) and the one I keep for [code and writing](http://www.mmelines.com)
