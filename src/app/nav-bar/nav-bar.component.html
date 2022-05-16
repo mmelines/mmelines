@@ -1,7 +1,10 @@
 <ul>
+  <li>
+    <a [routerLink]="['/']">Resume</a>
+  </li>
   <div *ngFor="let section of resume">
     <li class="feature">
-      <a [routerLink]="['{{section.route}}']">{{section.name}}</a>
+      <a [routerLink]="['{{section.route}}']">{{ section.name }}</a>
     </li>
   </div>
 </ul>
