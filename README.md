@@ -1,7 +1,7 @@
 ## Hi, I'm Mary
 But my friends call me Molly. I'm a programming hobbyist and aspiring developer. I'm interested in
 - Python
-- JavaScript (including Node, Angular, and React)
+- JavaScript
 - Relational Databases
 - Containerization and K8s
 - Message Streaming
